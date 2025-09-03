@@ -2,7 +2,7 @@
 
 A Termux:X11 fork but with extra features.
 
-It supports Controller and more customizable Screen Keys.
+It supports Controller and more customizable Screen Keys. 
 
 A [Termux](https://termux.com) X11 server add-on app.
 
